@@ -1,6 +1,6 @@
 ## Olá, eu sou Gabriel Boniolo
 
-- 🚀 Em busca de uma carreira como Desenvolvedor Full Stack
+- 🚀 Trilhando uma carreira como Desenvolvedor Full Stack
 - 📚 Estudando C#, HTML, CSS e JS
 - 😁 Pronomes: ele/dele
 
