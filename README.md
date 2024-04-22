@@ -1,12 +1,12 @@
 ## Olá, eu sou Gabriel Boniolo
 
 - 🚀 Trilhando uma carreira como Desenvolvedor Full Stack
-- 📚 Estudando C#, HTML, CSS e JS
+- 📚 Estudando PHP, HTML, CSS e JS
 - 😁 Pronomes: ele/dele
 
 ## Habilidades
 <div style="display: inline_block"><br>
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
+  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> 
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
