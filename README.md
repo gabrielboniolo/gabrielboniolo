@@ -1,7 +1,7 @@
 ## Olá, eu sou Gabriel Boniolo
 
 - 🚀 Trilhando uma carreira como Desenvolvedor Full Stack
-- 📚 Estudando PHP, HTML, CSS e JS
+- 📚 Estudando PHP, SQL, HTML, CSS e JS
 - 😁 Pronomes: ele/dele
 
 ## Habilidades
