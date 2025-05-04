@@ -4,7 +4,6 @@
 - 🎓 Software Engineering specialization student at PUC-RIO
 - 🎓 Graduated in Systems Analysis and Development at Senac
 - 📚 Continuously learning Python, SQL, HTML, CSS and JavaScript
-- 😁 Pronouns: he/him
 
 ## Skills
 <div style="display: inline_block"><br>
