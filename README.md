@@ -22,7 +22,7 @@
   <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielboniolo&layout=compact&theme=holi&border_radius=10" alt="Top Languages" />
 </p>
 
-## 📫 Let's Connect
+## 📫 Contact
 <p align="left">
   <a href="https://www.linkedin.com/in/gabrielboniolo/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
