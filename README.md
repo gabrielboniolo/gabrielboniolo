@@ -3,21 +3,26 @@
 - 🚀 Pursuing a career as a Full Stack Developer
 - 🎓 Software Engineering specialization student at PUC-RIO
 - 🎓 Graduated in Systems Analysis and Development at Senac
-- 📚 Continuously learning Python, SQL, HTML, CSS and JavaScript
+- 📚 Continuously learning Python, FastAPI, Pandas, Scikitlearn, PyautoGUI
 
-## Skills
-<div style="display: inline_block"><br>
-  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>
+## 🛠 Skills
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,html,css,js,fastapi,sklearn,pandas&theme=dark" />
+  </a>
+</p>
 
-## Stats
-<div style="display:flex">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielboniolo&show_icons=true&theme=holi"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielboniolo&layout=compact&theme=holi"/>
-</div>
+> **Note:** Since `PyAutoGUI` doesn't have a dedicated "brand icon" in most libraries, I've included it as a custom badge below to keep your layout clean.
+
+[![PyAutoGUI](https://img.shields.io/badge/Automation-PyAutoGUI-blueviolet?style=for-the-badge&logo=python&logoColor=white)](https://pyautogui.readthedocs.io/)
+
+---
+
+## 📊 Stats
+<p align="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielboniolo&show_icons=true&theme=holi" alt="Gabriel's Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielboniolo&layout=compact&theme=holi" alt="Top Languages" />
+</p>
 
  ## Contact
 <div> 
