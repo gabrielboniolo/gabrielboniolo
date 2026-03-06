@@ -11,15 +11,16 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,sklearn,pandas,html,css,js&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,fastapi,sklearn,html,css,js&theme=dark" />
   </a>
 </p>
 
 ## 📊 Stats
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gabrielboniolo&show_icons=true&theme=holi" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielboniolo&layout=compact&theme=holi" />
-</div>
+
+<p align="center">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=gabrielboniolo&show_icons=true&theme=holi&border_radius=10" alt="GitHub Stats" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielboniolo&layout=compact&theme=holi&border_radius=10" alt="Top Languages" />
+</p>
 
 ## 📫 Let's Connect
 <p align="left">
