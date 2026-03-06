@@ -1,4 +1,4 @@
-# ## Hi there 👋 I'm Gabriel Boniolo
+## Hi there 👋 I'm Gabriel Boniolo
 
 - 🚀 Pursuing a career as a **Python Backend Developer**
 - 🎓 Software Engineering specialization student at **PUC-RIO**
