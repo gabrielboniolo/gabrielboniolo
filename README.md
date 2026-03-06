@@ -1,31 +1,44 @@
-## Hi there 👋 I'm Gabriel Boniolo
+# ## Hi there 👋 I'm Gabriel Boniolo
 
-- 🚀 Pursuing a career as a Full Stack Developer
-- 🎓 Software Engineering specialization student at PUC-RIO
-- 🎓 Graduated in Systems Analysis and Development at Senac
-- 📚 Continuously learning Python, FastAPI, Pandas, Scikitlearn, PyautoGUI
+- 🚀 Pursuing a career as a **Full Stack Developer**
+- 🎓 Software Engineering specialization student at **PUC-RIO**
+- 🎓 Graduated in Systems Analysis and Development at **Senac**
+- 📚 Currently mastering: `FastAPI`, `Pandas`, `Scikit-learn`, and `PyAutoGUI`
 
-## 🛠 Skills
+---
+
+## 🛠 Skills & Technologies
+
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,html,css,js,fastapi,sklearn,pandas&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,fastapi,sklearn,pandas,html,css,js&theme=dark" />
   </a>
 </p>
 
-> **Note:** Since `PyAutoGUI` doesn't have a dedicated "brand icon" in most libraries, I've included it as a custom badge below to keep your layout clean.
-
-[![PyAutoGUI](https://img.shields.io/badge/Automation-PyAutoGUI-blueviolet?style=for-the-badge&logo=python&logoColor=white)](https://pyautogui.readthedocs.io/)
+> **Automation & Scripting:** > ![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-blueviolet?style=flat-square&logo=python&logoColor=white) 
+> ![Automation](https://img.shields.io/badge/Workflow-Automation-success?style=flat-square&logo=githubactions&logoColor=white)
 
 ---
 
 ## 📊 Stats
 <p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielboniolo&show_icons=true&theme=holi" alt="Gabriel's Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielboniolo&layout=compact&theme=holi" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielboniolo&show_icons=true&theme=holi" alt="Gabriel's Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielboniolo&layout=compact&theme=holi" alt="Top Languages" />
 </p>
 
- ## Contact
-<div> 
-  <a href="https://www.linkedin.com/in/gabrielboniolo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:gabrielboniolo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+---
+
+## 📫 Let's Connect
+<p align="left">
+  <a href="https://www.linkedin.com/in/gabrielboniolo/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:gabrielboniolo@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
+
+---
+
+### 🐍 Contribution Activity
+![](https://github-readme-snake.vercel.app/api/github-contribution-grid-snake.svg?github=gabrielboniolo&color_snake=%238e44ad&color_dots=%23ebedf0,%239be9a8,%2340c463,%2330a14e,%23216e39)
