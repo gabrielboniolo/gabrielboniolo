@@ -1,6 +1,6 @@
 # ## Hi there 👋 I'm Gabriel Boniolo
 
-- 🚀 Pursuing a career as a **Full Stack Developer**
+- 🚀 Pursuing a career as a **Python Backend Developer**
 - 🎓 Software Engineering specialization student at **PUC-RIO**
 - 🎓 Graduated in Systems Analysis and Development at **Senac**
 - 📚 Currently mastering: `FastAPI`, `Pandas`, `Scikit-learn`, and `PyAutoGUI`
