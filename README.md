@@ -15,10 +15,9 @@
   </a>
 </p>
 
-## 📊 Stats
+## 📊 Top Languages
 
 <p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=gabrielboniolo&show_icons=true&theme=holi&border_radius=10" alt="GitHub Stats" />
   <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielboniolo&layout=compact&theme=holi&border_radius=10" alt="Top Languages" />
 </p>
 
