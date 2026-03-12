@@ -17,7 +17,7 @@
 
 ## 📊 Top Languages
 
-<p align="center">
+<p align="left">
   <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielboniolo&layout=compact&theme=holi&border_radius=10" alt="Top Languages" />
 </p>
 
