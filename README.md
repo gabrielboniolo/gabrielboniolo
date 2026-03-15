@@ -11,7 +11,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,flask,sklearn,pandas,html,css,js&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,fastapi,flask,sklearn,pkl,sqlite,sqlserver,html,css,js,notion&theme=dark" />
   </a>
 </p>
 
